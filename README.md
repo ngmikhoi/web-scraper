@@ -1,7 +1,7 @@
-# AI Web Scraper
+# Web Scraper
 
 ## Overview
-The AI Web Scraper is a Streamlit-based application that allows users to scrape website content, clean the extracted data, and parse specific information using the Ollama language model. The application leverages Selenium for web scraping and BeautifulSoup for DOM parsing, providing an interactive interface to input URLs, view scraped content, and extract targeted information based on user-defined descriptions.
+This Web Scraper is a Streamlit-based application that allows users to scrape website content, clean the extracted data, and parse specific information using the Ollama language model. The application leverages Selenium for web scraping and BeautifulSoup for DOM parsing, providing an interactive interface to input URLs, view scraped content, and extract targeted information based on user-defined descriptions.
 
 ## Features
 - **Web Scraping**: Fetches HTML content from a specified URL using Selenium WebDriver.
